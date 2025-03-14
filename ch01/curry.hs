@@ -1,5 +1,5 @@
 
-{- v
+{- 
 ghci> f = uncurry_ (+)
 ghci> f (2,3)
 5
