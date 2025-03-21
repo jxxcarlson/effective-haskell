@@ -7,6 +7,7 @@ fib n
 
 fibs = map fib [0..]
 
+smallFibs = takeWhile (< 100) fibs
 
 {-
 
